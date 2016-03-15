@@ -1,6 +1,6 @@
 name: Jeff Oster Music
 favicon: null
-layout_spectrum: 0.5522902733646333
+layout_spectrum: 1
 typography_spectrum: 0.5977420608978719
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.2697018643375486
+  brandStrength: 0
   lightness: 0.8391698359046131
   saturation: 0.07679402502253652
   rhythmicContrast: 1
