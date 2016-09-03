@@ -37,6 +37,9 @@ navigation:
   - name: Watch!
     url: 'http://www.youtube.com/ffejretso'
     type: external
+  - name: Subscribe!
+    url: 'http://jeffoster.com/subscribe/'
+    type: external
 favicon: null
 title: Imagine...Miles meets Pink Floyd
 description: jeffoster.com
