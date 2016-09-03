@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jeff Oster Music]]></title>
-        <description><![CDATA[Jeff Oster Music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Imagine...Miles meets Pink Floyd]]></title>
+        <description><![CDATA[Imagine...Miles meets Pink Floyd]]></description>
+        <link>https://thegrid.ai/jeff-oster-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 23:13:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 15:38:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jeff-oster-music/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Official Website of Jeff Oster - Jeff Oster]]></title>
+            <description><![CDATA[<article><h1>The Official Website of Jeff Oster - Jeff Oster</h1><p>The official website of Bay Area Trumpet and Flugelhorn player Jeff Oster. Listen to music and buy Jeff Oster's latest album, "NEXT"</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6a8072a4b72e85e067f54fd840c40494/noop.jpg?input=http%3A%2F%2Fjeffoster.com%2Fwp-content%2Fuploads%2F2015%2F09%2FJeff_Oster_background.jpg"></article>]]></description>
+            <link>http://jeffoster.com</link>
+            <guid isPermaLink="false">6e437f08-135a-4d91-9d88-20f15891ecb7</guid>
+            <pubDate>Wed, 31 Aug 2016 15:38:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Jeff Oster...think Miles meets Pink Floyd</p>]]></description>
-            <link>undefined10ad5b93-9101-4d0c-baab-429b97248b93/index.html</link>
+            <link>https://thegrid.ai/jeff-oster-music/10ad5b93-9101-4d0c-baab-429b97248b93/index.html</link>
             <guid isPermaLink="false">10ad5b93-9101-4d0c-baab-429b97248b93</guid>
             <pubDate>Tue, 15 Mar 2016 23:13:14 GMT</pubDate>
         </item>
