@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Listen!
+    url: 'http://jeffoster.com'
+    type: external
 favicon: null
 title: Imagine...Miles meets Pink Floyd
 description: music.jeffoster.com
