@@ -19,6 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Jeff Oster
+  email: jeff@jeffoster.com
+  url: 'http://jeffoster.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/59f9dcb9-0ac2-4b5a-8fd6-a8cfb5a72703.jpg
 name: Jeff Oster Music
 cta:
   domain: null
