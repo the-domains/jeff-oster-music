@@ -28,6 +28,9 @@ navigation:
   - name: Listen!
     url: 'http://jeffoster.com'
     type: external
+  - name: Watch!
+    url: 'http://www.youtube.com/ffejretso'
+    type: external
 favicon: null
 title: Imagine...Miles meets Pink Floyd
 description: music.jeffoster.com
